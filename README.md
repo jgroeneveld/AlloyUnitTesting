@@ -7,14 +7,14 @@ Usage
 -----------------
 You will need to install jasmine-node
 
-  npm install -g jasmine-node
+    npm install -g jasmine-node
 
 
 After cloning
 
-  cd AlloyUnitTesting
-  export NODE_PATH=$(pwd)/Resources
-  alloy compile; jasmine-node spec
+    cd AlloyUnitTesting
+    export NODE_PATH=$(pwd)/Resources
+    alloy compile; jasmine-node spec
 
 The .spec.js files in *AlloyUnitTesting/spec* will be tested.
 
