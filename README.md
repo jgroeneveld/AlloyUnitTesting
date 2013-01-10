@@ -24,4 +24,4 @@ The export is needed to be compatible to the Alloy requires in the generated fil
 
 The file *AlloyUnitTesting/spec/tistub.js* is needed to simulate the Ti namespace. As of yet this is not complete which is true for this whole project. It works in this way. Everything else needs to be tested.
 
-The sql Adapter does not work yet so we are using a very simple runtime adapter (*app/lib/alloy/sync/MyRuntimeSync*) for the collection testing.
+The sql Adapter does not work yet so we are using a very simple runtime adapter *app/lib/alloy/sync/MyRuntimeSync*for the collection testing.
